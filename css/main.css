@@ -40,23 +40,25 @@
   height: 645px;
   text-align: center;
   margin-top: 100px;
+
 }
 #portfolio{
   align-items: center;
   justify-content: space-around;
-  padding: 7% 0;
+  padding: 7% 4%;
 }
 
 #about {
   align-items: center;
-  padding: 7% 0;
+  padding: 7% 4%;
 }
 
 #contact{
   align-content: center;
   justify-content: space-around;
-  padding: 7% 0;
+  padding: 7% 4%;
 }
+
 
 footer {
   background: #233140;
